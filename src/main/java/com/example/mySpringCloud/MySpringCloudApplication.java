@@ -15,4 +15,5 @@ public class MySpringCloudApplication {
 		SpringApplication.run(MySpringCloudApplication.class, args);
         System.out.println("加载springCloud......");
 	}
+
 }
